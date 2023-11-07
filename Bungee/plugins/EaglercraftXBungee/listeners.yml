@@ -11,7 +11,7 @@ listener_01:
   server_icon: server-icon.png
   server_motd:
   - '&a&l&oGamespace MC'
-  - '&9&l&oPlay Now!'
+  - '&4&l&oUNDER MAINTENANCE'
   allow_motd: true
   allow_query: true
   request_motd_cache:
