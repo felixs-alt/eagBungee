@@ -48,5 +48,5 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another BungeeCord - Forced Host'
-    address: 87.227.71.95:25566
+    address: GamespaceMC.aternos.me:38068
     restricted: false
