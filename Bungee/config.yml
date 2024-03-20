@@ -33,7 +33,7 @@ server_connect_timeout: 50000
 timeout: 50000
 player_limit: -1
 prevent_proxy_connections: false
-ip_forward: false
+ip_forward: true
 groups:
   md_5:
   - admin
