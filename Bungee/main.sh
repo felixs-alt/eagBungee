@@ -1,3 +1,0 @@
-#!/bin/bash
-echo loading...
-java -Xmx1024M -Xms1024M -jar Bungee.jar

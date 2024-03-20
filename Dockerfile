@@ -3,4 +3,4 @@ COPY . .
 RUN apt-get -y update
 RUN apt install -y default-jre
 WORKDIR "/Bungee"
-CMD ["bash", "main.sh"]
+CMD java -jar Bungee.jar
