@@ -8905,3 +8905,46 @@ java.lang.IllegalArgumentException: Server icon must be exactly 64x64 pixels
 §4Server not found.
 07:08:24 [INFO] [boegn2] -> UpstreamBridge has disconnected
 07:08:24 [INFO] [boegn2] <-> DownstreamBridge <-> [lobby] has disconnected
+16:46:07 [INFO] Using mbed TLS based native cipher.
+16:46:08 [INFO] Using zlib based native compressor.
+16:46:08 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+16:46:08 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+16:46:08 [INFO] Epoll is working, utilising it!
+16:46:08 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+16:46:08 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+16:46:08 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+16:46:08 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+16:46:08 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+16:46:08 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+16:46:08 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+16:46:08 [WARNING] Forced host server pvp is not defined
+16:46:08 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+16:46:08 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:08 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+16:46:08 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+16:46:08 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+16:46:08 [INFO] Listening on /127.0.0.1:25577
+16:46:10 [INFO] Closing listener [id: 0x7d036f66, L:/127.0.0.1:25577]
+16:46:10 [INFO] Closing pending connections
+16:46:10 [INFO] Disconnecting 0 connections
+16:46:11 [INFO] Disabling plugins
+16:46:11 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+16:46:11 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+16:46:11 [INFO] Closing IO threads

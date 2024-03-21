@@ -1,4 +1,3 @@
-#!/bin/bash
 echo loading...
-cd Bungee
+cd ./Bungee
 java -jar Bungee.jar
