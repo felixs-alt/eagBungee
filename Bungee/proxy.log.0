@@ -10247,3 +10247,57 @@ java.lang.NoSuchMethodError: 'void net.md_5.bungee.UserConnection.init()'
 18:50:45 [INFO] [FelixG] -> UpstreamBridge has connected
 18:50:48 [INFO] [FelixG] disconnected with: §cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
 18:50:48 [INFO] [FelixG] -> UpstreamBridge has disconnected
+18:51:42 [INFO] Using standard Java JCE cipher.
+18:51:42 [INFO] Using standard Java compressor.
+18:51:42 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:f3397b3:1745
+18:51:43 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:51:43 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+18:51:43 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+18:51:43 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+18:51:43 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+18:51:43 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:51:43 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+18:51:43 [WARNING] :>  
+18:51:43 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+18:51:43 [WARNING] :>  
+18:51:43 [WARNING] :>  This plugin wasn't tested to be 'working'
+18:51:43 [WARNING] :>  with ANY version of BungeeCord (and forks)
+18:51:43 [WARNING] :>  apart from the versions listed below:
+18:51:43 [WARNING] :>  
+18:51:43 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+18:51:43 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+18:51:43 [WARNING] :>  - FlameCord: 1.1.1
+18:51:43 [WARNING] :>  
+18:51:43 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+18:51:43 [WARNING] :>  
+18:51:43 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+18:51:43 [WARNING] :>  
+18:51:43 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+18:51:43 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+18:51:43 [WARNING] Forced host server pvp is not defined
+18:51:43 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+18:51:43 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:f3397b3:1745 by SpigotMC
+18:51:43 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+18:51:43 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+18:51:43 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+18:51:43 [WARNING] Using PROXY protocol for listener /127.0.0.1:25577, please ensure this listener is adequately firewalled.
+18:51:43 [WARNING] Since PROXY protocol is in use, internal connection throttle has been disabled.
+18:51:43 [INFO] Listening on /127.0.0.1:25577
+18:51:43 [INFO] [EaglercraftXBungee] Loaded certificate: C:\Users\felix\Documents\GitHub\eagBungee\Bungee\plugins\EaglercraftXBungee\eagcert\$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
