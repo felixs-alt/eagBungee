@@ -8948,3 +8948,548 @@ java.lang.IllegalArgumentException: Server icon must be exactly 64x64 pixels
 16:46:11 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
 16:46:11 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
 16:46:11 [INFO] Closing IO threads
+16:46:40 [INFO] Using mbed TLS based native cipher.
+16:46:40 [INFO] Using zlib based native compressor.
+16:46:40 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+16:46:40 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+16:46:40 [INFO] Epoll is working, utilising it!
+16:46:40 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+16:46:40 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+16:46:40 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+16:46:40 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+16:46:40 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+16:46:40 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+16:46:41 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+16:46:41 [WARNING] Forced host server pvp is not defined
+16:46:41 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+16:46:41 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:46:41 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+16:46:41 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+16:46:41 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+16:46:41 [INFO] Listening on /127.0.0.1:25577
+16:48:50 [INFO] Closing listener [id: 0xc885dda5, L:/127.0.0.1:25577]
+16:48:50 [INFO] Closing pending connections
+16:48:50 [INFO] Disconnecting 0 connections
+16:48:51 [INFO] Disabling plugins
+16:48:51 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+16:48:51 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+16:48:51 [INFO] Closing IO threads
+16:49:11 [INFO] Using mbed TLS based native cipher.
+16:49:12 [INFO] Using zlib based native compressor.
+16:49:12 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+16:49:12 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+16:49:12 [INFO] Epoll is working, utilising it!
+16:49:12 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+16:49:12 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+16:49:12 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+16:49:12 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+16:49:12 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+16:49:12 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+16:49:12 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+16:49:12 [WARNING] Forced host server pvp is not defined
+16:49:12 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+16:49:12 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+16:49:12 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+16:49:12 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+16:49:13 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+16:49:13 [INFO] Listening on /127.0.0.1:25577
+16:49:22 [INFO] Closing listener [id: 0x85457cd0, L:/127.0.0.1:25577]
+16:49:22 [INFO] Closing pending connections
+16:49:22 [INFO] Disconnecting 0 connections
+16:49:22 [INFO] Disabling plugins
+16:49:22 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+16:49:22 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+16:49:22 [INFO] Closing IO threads
+17:10:41 [INFO] Using mbed TLS based native cipher.
+17:10:41 [INFO] Using zlib based native compressor.
+17:10:41 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:10:41 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:10:41 [INFO] Epoll is working, utilising it!
+17:10:41 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:10:41 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+17:10:41 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+17:10:41 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+17:10:41 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+17:10:41 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:10:41 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:41 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:41 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:41 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:41 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:41 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:42 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:10:42 [WARNING] Forced host server pvp is not defined
+17:10:42 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:10:42 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:42 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:42 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:42 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:42 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:42 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:10:42 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:10:42 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:10:42 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:10:42 [INFO] Listening on /127.0.0.1:25577
+17:14:56 [INFO] Closing listener [id: 0xfa3db590, L:/127.0.0.1:25577]
+17:14:56 [INFO] Closing pending connections
+17:14:56 [INFO] Disconnecting 0 connections
+17:14:56 [INFO] Disabling plugins
+17:14:56 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+17:14:56 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+17:14:56 [INFO] Closing IO threads
+17:15:20 [INFO] Using standard Java JCE cipher.
+17:15:20 [INFO] Using standard Java compressor.
+17:15:20 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:15:20 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:15:20 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:15:20 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:15:20 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:15:20 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:15:20 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:15:20 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:15:20 [WARNING] Forced host server pvp is not defined
+17:15:20 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:15:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:15:20 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:15:20 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:15:20 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:15:20 [INFO] Listening on /127.0.0.1:25577
+17:15:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56302]: Connected via websocket
+17:15:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56302]: Origin header is https://felixs-alt.github.io
+17:15:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56302]: Logged in as 'FelixG'
+17:15:48 [INFO] [FelixG] -> UpstreamBridge has connected
+17:15:48 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:15:50 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:19:58 [INFO] Using standard Java JCE cipher.
+17:19:58 [INFO] Using standard Java compressor.
+17:19:58 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:19:58 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:19:58 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:19:58 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:19:58 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:19:58 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:19:58 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:19:58 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:19:58 [WARNING] Forced host server pvp is not defined
+17:19:58 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:19:58 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:19:58 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:19:58 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:19:58 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:19:58 [INFO] Listening on /127.0.0.1:25577
+17:20:28 [INFO] Using standard Java JCE cipher.
+17:20:28 [INFO] Using standard Java compressor.
+17:20:28 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:20:28 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:20:28 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:20:28 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:20:28 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:20:28 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:20:28 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:20:28 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:20:28 [WARNING] Forced host server pvp is not defined
+17:20:28 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:20:28 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:20:28 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:20:28 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:20:28 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:20:28 [INFO] Listening on /127.0.0.1:25577
+17:20:46 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56480]: Connected via websocket
+17:20:46 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56480]: Origin header is https://felixs-alt.github.io
+17:20:46 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56480]: Logged in as 'FelixG'
+17:20:46 [INFO] [FelixG] -> UpstreamBridge has connected
+17:20:46 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:20:47 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:21:08 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:21:08 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:21:08 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:22:09 [INFO] Using standard Java JCE cipher.
+17:22:09 [INFO] Using standard Java compressor.
+17:22:09 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:22:10 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:22:10 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:22:10 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:22:10 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:22:10 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:22:10 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:22:10 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:22:10 [WARNING] Forced host server pvp is not defined
+17:22:10 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:22:10 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:22:10 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:22:10 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:22:10 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:22:10 [INFO] Listening on /127.0.0.1:25577
+17:22:15 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56558]: Connected via websocket
+17:22:15 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56558]: Origin header is https://felixs-alt.github.io
+17:22:16 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56558]: Logged in as 'FelixG'
+17:22:16 [INFO] [FelixG] -> UpstreamBridge has connected
+17:22:16 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:22:19 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:22:20 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56560]: Connected via websocket
+17:22:20 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56560]: Origin header is https://felixs-alt.github.io
+17:22:20 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56560]: Logged in as 'FelixG'
+17:22:20 [INFO] [FelixG] -> UpstreamBridge has connected
+17:22:20 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:22:21 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:22:35 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:22:35 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:22:35 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:22:40 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:22:40 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:22:40 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:22:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56581]: Connected via websocket
+17:22:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56581]: Origin header is https://felixs-alt.github.io
+17:22:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56581]: Logged in as 'FelixG'
+17:22:40 [INFO] [FelixG] -> UpstreamBridge has connected
+17:22:40 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:22:59 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:22:59 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:22:59 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:22:59 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:23:43 [INFO] Using standard Java JCE cipher.
+17:23:43 [INFO] Using standard Java compressor.
+17:23:43 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:23:44 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:23:44 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:23:44 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:23:44 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:23:44 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:23:44 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:23:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:23:44 [WARNING] Forced host server pvp is not defined
+17:23:44 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:23:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:23:44 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:23:44 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:23:44 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:23:44 [INFO] Listening on /127.0.0.1:25577
+17:23:59 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56651]: Connected via websocket
+17:23:59 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56651]: Origin header is https://felixs-alt.github.io
+17:24:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56651]: Logged in as 'FelixG'
+17:24:00 [INFO] [FelixG] -> UpstreamBridge has connected
+17:24:00 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:24:21 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:24:21 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:24:21 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:24:21 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:25:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56927]: Connected via websocket
+17:25:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56927]: Origin header is https://felixs-alt.github.io
+17:25:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56927]: Logged in as 'FelixG'
+17:25:26 [INFO] [FelixG] -> UpstreamBridge has connected
+17:25:26 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:25:30 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:25:32 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56945]: Connected via websocket
+17:25:32 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56945]: Origin header is https://felixs-alt.github.io
+17:25:32 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56945]: Logged in as 'FelixG'
+17:25:32 [INFO] [FelixG] -> UpstreamBridge has connected
+17:25:32 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:25:45 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:25:45 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:25:45 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:25:51 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:25:51 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:25:51 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:25:51 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:26:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:57075]: Connected via websocket
+17:26:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:57075]: Origin header is https://felixs-alt.github.io
+17:26:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:57075]: Logged in as 'FelixG'
+17:26:25 [INFO] [FelixG] -> UpstreamBridge has connected
+17:26:25 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:26:45 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:26:45 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:26:45 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:26:45 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:44:33 [INFO] Using standard Java JCE cipher.
+17:44:33 [INFO] Using standard Java compressor.
+17:44:33 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:44:33 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:44:33 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:44:33 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:44:33 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:44:33 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:44:33 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:44:33 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:44:33 [WARNING] Forced host server pvp is not defined
+17:44:33 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:44:33 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:44:33 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:44:33 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:44:33 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:44:33 [INFO] Listening on /127.0.0.1:25577
+17:44:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61036]: Connected via websocket
+17:44:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61036]: Origin header is https://felixs-alt.github.io
+17:44:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61036]: Logged in as 'FelixG'
+17:44:48 [INFO] [FelixG] -> UpstreamBridge has connected
+17:44:48 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:44:49 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:45:10 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:45:10 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:45:10 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
+17:45:46 [INFO] Using standard Java JCE cipher.
+17:45:46 [INFO] Using standard Java compressor.
+17:45:46 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:45:47 [WARNING] Forced host server pvp is not defined
+17:45:47 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:45:47 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:45:47 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:45:47 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:45:47 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:45:47 [INFO] Listening on /127.0.0.1:25577
+17:45:49 [WARNING] [EaglercraftXBungee] [/127.0.0.1:61079]: Connected without a '127.0.0.1' header, disconnecting...
+17:45:49 [WARNING] [EaglercraftXBungee] [/127.0.0.1:61080]: Connected without a '127.0.0.1' header, disconnecting...
+17:45:50 [WARNING] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61081]: Connected without a '127.0.0.1' header, disconnecting...
+17:46:14 [WARNING] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61096]: Connected without a '127.0.0.1' header, disconnecting...
+17:46:33 [WARNING] [EaglercraftXBungee] [/127.0.0.1:61108]: Connected without a '127.0.0.1' header, disconnecting...
+17:46:33 [WARNING] [EaglercraftXBungee] [/127.0.0.1:61109]: Connected without a '127.0.0.1' header, disconnecting...
+17:46:33 [WARNING] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61110]: Connected without a '127.0.0.1' header, disconnecting...
+17:47:02 [INFO] Using standard Java JCE cipher.
+17:47:02 [INFO] Using standard Java compressor.
+17:47:02 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:47:02 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:47:02 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:47:02 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:47:02 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:47:02 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:47:02 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:47:02 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:47:02 [WARNING] Forced host server pvp is not defined
+17:47:02 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:47:02 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:47:02 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:47:02 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:47:02 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:47:02 [INFO] Listening on /127.0.0.1:25577
+17:47:05 [WARNING] [EaglercraftXBungee] [/127.0.0.1:61133]: Connected without a '87.227.71.95' header, disconnecting...
+17:47:05 [WARNING] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61134]: Connected without a '87.227.71.95' header, disconnecting...
+17:47:05 [WARNING] [EaglercraftXBungee] [/127.0.0.1:61135]: Connected without a '87.227.71.95' header, disconnecting...
+17:47:07 [WARNING] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61136]: Connected without a '87.227.71.95' header, disconnecting...
+17:48:05 [WARNING] [EaglercraftXBungee] [/127.0.0.1:61170]: Connected without a '87.227.71.95' header, disconnecting...
+17:48:05 [WARNING] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61171]: Connected without a '87.227.71.95' header, disconnecting...
+17:48:05 [WARNING] [EaglercraftXBungee] [/127.0.0.1:61172]: Connected without a '87.227.71.95' header, disconnecting...
+17:48:25 [INFO] Using standard Java JCE cipher.
+17:48:25 [INFO] Using standard Java compressor.
+17:48:25 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.1-SNAPSHOT:c7adcf9:1716
+17:48:25 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:48:25 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:48:25 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:48:25 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:48:25 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:48:25 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:48:25 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:25 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:25 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:25 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:25 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:25 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:25 [INFO] Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:48:26 [WARNING] Forced host server pvp is not defined
+17:48:26 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:48:26 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:26 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:26 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:26 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:26 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:26 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.1-SNAPSHOT:c7adcf9:1716 by SpigotMC
+17:48:26 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:48:26 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:48:26 [INFO] Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+17:48:26 [INFO] Listening on /127.0.0.1:25577
+17:49:50 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61236]: Connected via websocket
+17:49:50 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61236]: Origin header is https://felixs-alt.github.io
+17:49:50 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61236]: Logged in as 'FelixG'
+17:49:50 [INFO] [FelixG] -> UpstreamBridge has connected
+17:49:50 [INFO] [FelixG] <-> ServerConnector [lobby] has connected
+17:49:54 [INFO] [FelixG] -> UpstreamBridge has disconnected
+17:50:09 [WARNING] [FelixG] <-> ServerConnector [lobby] - SocketException: Connection reset
+17:50:09 [INFO] [FelixG] disconnected with: §cException Connecting: SocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:401
+17:50:09 [INFO] [FelixG] <-> ServerConnector [lobby] has disconnected
